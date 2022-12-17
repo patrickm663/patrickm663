@@ -11,7 +11,7 @@ On the actuarial side, I am sitting my Fellowship exams through ASSA.
 - 🔭 I’m currently working on a database backend for my parents' website and preparing for the Cloud Practitioner's exam
 - 🌱 I’m currently learning Julia with Flux.jl, and Python's Streamlit for dashboarding
 - 👯 I'm open to collaboration
-- 📫 You can reach me here on GitHub; or my personal site https://patrickmoehrke.com where you can contact me directly
+- 📫 You can reach me here on GitHub or my personal site https://patrickmoehrke.com
 - 💬 I'd love to chat about all things Linux, programming, and ML!
 
 <!--
