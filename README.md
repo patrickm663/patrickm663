@@ -14,17 +14,12 @@ On the actuarial side, I am sitting my Fellowship exams through ASSA.
 - 📫 You can reach me here on GitHub or my personal site https://patrickmoehrke.com
 - 💬 I'd love to chat about all things Linux, programming, and ML!
 
-<!--
-**patrickm663/patrickm663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 2023 Goals ⛳
+1. Further explore Lua in order to write a custom Conky theme and fine-tune my Neovim config (no ideas at the moment for custom plugins -- ideas are welcome!)
+2. Write a 2D game in D - something like a Yu-Gi-Oh or Dual Masters clone
+3. Write a small mortality modelling library in Julia, and investigate whether there is scope for neural and universal DEs in mortality modelling
+4. Write a small deep learning library in D from scratch, starting with a simple feed-forward networks
+5. Rewrite AWS infrastructure for my websites in Terraform
+6. Get further in Project Euler, aiming at 60+ complete by year-end (around 45 complete @ start of 2023)
+7. Improve my database management skills by integrating/exploring DB integration where possible into the above goals
+8. Build better test cases and apply CICD where possible in the above goals and my general work, including integrating it into older repos
