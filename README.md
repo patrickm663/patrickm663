@@ -24,5 +24,5 @@ On the actuarial side, I am sitting my Fellowship exams through ASSA.
 7. Improve my database management skills by integrating/exploring DB integration where possible into the above goals
 8. Build better test cases and apply CICD where possible in the above goals and my general work, including integrating it into older repos
 9. Begin learning a functional programming language. Candidates are Haskell or OCaml
-10. Explore Kubernetes (both EKS and smaller-scale like microk8s or minikube) using custom Docker images and look at packaging it up with Helm
+10. Explore Kubernetes (both EKS and smaller-scale like microk8s or minikube) using custom Docker images and look at packaging up a small example with Helm
 11. Develop better monitoring techniques using Grafana and integrate them into AWS services
