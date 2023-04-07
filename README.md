@@ -4,7 +4,7 @@ I am an actuarial consultant and developer from Cape Town, South Africa.
 
 As a consultant, my focus is on applying machine learning to actuarial problems across the end-to-end pipeline.
 
-I like working with Cloud services and aim to start sitting AWS certification exams this 2023.
+I like working with Cloud services, and recently passed the AWS Cloud Practitioner exam. I am studying towards the Solutions Architect exam.
 
 On the actuarial side, I am sitting my Fellowship exams through ASSA.
 
