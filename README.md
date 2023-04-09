@@ -8,7 +8,7 @@ I like working with Cloud services, and recently passed the AWS Cloud Practition
 
 On the actuarial side, I am sitting my Fellowship exams through ASSA.
 
-- 🔭 I’m currently working on a database backends in AWS and preparing for the Cloud Practitioner's exam
+- 🔭 I’m currently working on a database backends in AWS and preparing for the Solution Architect Associate exam
 - 🌱 I’m learning Julia (SciML-focus), Python's Streamlit for dashboarding, and D programming language
 - 👯 I'm open to collaboration
 - 📫 You can reach me here on GitHub or my personal site https://patrickmoehrke.com
