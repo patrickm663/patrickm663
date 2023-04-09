@@ -14,6 +14,10 @@ On the actuarial side, I am sitting my Fellowship exams through ASSA.
 - 📫 You can reach me here on GitHub or my personal site https://patrickmoehrke.com
 - 💬 I'd love to chat about all things Linux, programming, and ML!
 
+<p align="center">
+<img src="https://github-readme-stats-lake-gamma.vercel.app/api?username=patrickm663&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
+</p>
+
 #### 2023 Goals ⛳
 1. Further explore Lua in order to write a custom Conky theme and fine-tune my Neovim config (no ideas at the moment for custom plugins -- ideas are welcome!)
 2. Write a 2D game in D - something like a _Yu-Gi-Oh_ or _Duel Masters_ clone
@@ -26,3 +30,4 @@ On the actuarial side, I am sitting my Fellowship exams through ASSA.
 9. Begin learning a functional programming language. Candidates are Haskell or OCaml
 10. Explore Kubernetes (both EKS and smaller-scale like microk8s or minikube) using custom Docker images and look at packaging up a small example with Helm
 11. Develop better monitoring techniques using Grafana and integrate them into AWS services
+
