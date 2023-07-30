@@ -4,12 +4,12 @@ I am an actuarial consultant and developer from Cape Town, South Africa.
 
 As a consultant, my focus is on applying machine learning to actuarial problems across the end-to-end pipeline.
 
-I like working with Cloud services, and recently passed the AWS Cloud Practitioner exam. I am studying towards the Solutions Architect Associate exam.
+I am comfortable working with cloud services, and recently passed the AWS Cloud Practitioner and Solutions Architect exams.
 
 On the actuarial side, I am sitting my Fellowship exams through ASSA.
 
-- 🔭 I’m currently working on a database backends in AWS and preparing for the Solution Architect Associate exam
-- 🌱 I’m learning Julia (SciML-focus), Python's Streamlit for dashboarding, and D programming language
+- 🔭 I’m focussed on Julia's Turing.jl library for Bayesian modelling, as well as the D programming language
+- 🌱 I’m exploring the cloud native ecosystem
 - 👯 I'm open to collaboration
 - 📫 You can reach me here on GitHub or my personal site https://patrickmoehrke.com
 - 💬 I'd love to chat about all things Linux, programming, and ML!
@@ -30,4 +30,3 @@ On the actuarial side, I am sitting my Fellowship exams through ASSA.
 9. Begin learning a functional programming language. Candidates are Haskell or OCaml
 10. Explore Kubernetes (both EKS and smaller-scale like microk8s or minikube) using custom Docker images and look at packaging up a small example with Helm
 11. Develop better monitoring techniques using Grafana and integrate them into AWS services
-
