@@ -17,3 +17,6 @@ On the actuarial side, I am sitting my Fellowship exams through ASSA.
 <p align="center">
 <img src="https://github-readme-stats-lake-gamma.vercel.app/api?username=patrickm663&count_private=true&hide_border=true&show_icons=true&theme=tokyonight">
 </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickm663&hide=SCSS,Jupyter%20Notebook,Makefile,HTML&size_weight=0.5&count_weight=0.5&layout=donut-vertical&theme=tokyonight&hide_border=true&count_private=true&show_icons=true">
+</p>
