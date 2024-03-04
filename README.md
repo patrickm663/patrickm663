@@ -2,8 +2,8 @@
 
 I am an actuarial machine learning practitioner from Somerset West, South Africa.
 
-- 🌱 Learning about scientific machine learning in Julia, and systems programming in D (_I have written some Rust & Zig and earmarked it for future me, but, for now, D won me over with its syntax_ ) 
-- 🔭 Exploring the cloud native ecosystem and applications of WASM
+- 🌱 Learning about scientific machine learning in Julia with application to mortality modelling. Currently exploring Bayesian Neural ODEs but think PDEs could be better suited
+- 🔭 Exploring game dev: Using Zig for CLI CLI games; want to build a browser-based game in Zig compiled to WASM; and looking to learn Raylib and/or SDL through D. Also looking to build more with Lua's LÖVE2D framework
 - 👯 Open to collaboration
 - 📫 Contact me here on GitHub or my personal site https://patrickmoehrke.com
 - 💬 Love to chat about all things open source, Linux, programming, and ML!
