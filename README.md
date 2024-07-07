@@ -1,9 +1,10 @@
 ### Hi 👋
 
-I am an actuarial machine learning practitioner from Somerset West, South Africa.
+I am a smoothed bonus product developer and actuarial machine learning practitioner from Somerset West, South Africa.
 
-- 🌱 Learning about scientific machine learning in Julia with application to mortality modelling. Currently exploring Bayesian Neural DEs
-- 🔭 Exploring game dev: Using Zig for CLI tools and rougelike games; want to build a browser-based game in Zig compiled to WASM; and looking to learn Raylib and/or SDL through D. Also looking to build more with Lua's LÖVE2D framework
+- 🌱 Learning about scientific machine learning (SciML) in Julia
+- 🔭 Exploring Kubernetes and the cloud native ecosystem
+- 🧐 Researching Bayesian neural networks to model mortality
 - 👯 Open to collaboration
 - 📫 Contact me here on GitHub or my personal site https://patrickmoehrke.com
 - 💬 Love to chat about all things open source, Linux, programming, and ML!
