@@ -3,7 +3,7 @@
 I am a smoothed bonus product developer and actuarial machine learning practitioner from Somerset West, South Africa.
 
 - 🌱 Learning about scientific machine learning (SciML) in Julia
-- 🔭 Exploring Kubernetes and the cloud native ecosystem
+- 🔭 Exploring Sisal, dataflow languages, and software preservation
 - 🧐 Researching Bayesian neural networks to model mortality
 - 👯 Open to collaboration
 - 📫 Contact me here on GitHub or my personal site https://patrickmoehrke.com
